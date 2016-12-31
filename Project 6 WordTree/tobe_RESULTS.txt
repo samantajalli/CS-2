@@ -1,0 +1,28 @@
+be 3
+bee 1
+he's 1
+hes 1
+i've 1
+is 1
+knot 3
+not 1
+or 2
+question 1
+she's 1
+that 1
+the 2
+they're 2
+to 3
+two 1
+y'all 1
+
+Total number of words in text: 26.
+Number of distinct words appearing in text: 17.
+Number of leaves: 5
+Number of nodes with one link: 8
+Number of nodes with two links: 4
+
+Please enter a word to search for: to
+
+The word "to" occurred 3 times.
+
